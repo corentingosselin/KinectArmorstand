@@ -1,0 +1,8 @@
+name: KinectArmorStand
+version: 1.0
+author: cocoraid
+api-version: 1.13
+main: fr.cocoraid.kinectarmorstand.KinectArmorStand
+commands:
+   kinect:
+
